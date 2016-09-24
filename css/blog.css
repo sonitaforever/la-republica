@@ -1,0 +1,17 @@
+/* Inserta tu código de la página blog acá */
+.blog{
+	border-color: #E2E6E9;
+	border-width: 2px solid;
+}
+
+.foto1{
+	background-color: #E2E6E9;
+	
+}
+
+
+.pic1{
+	background-image: url(../image/blog_avatar_01.jpg);
+	background-size: cover;
+
+}

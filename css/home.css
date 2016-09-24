@@ -1,0 +1,49 @@
+/* Inserta tu código de la página home/index acá */
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+.titulo{
+    font-size: 50px;
+}
+.banner img{
+    size: cover;
+}
+
+
+
+/*Fotografia1*/
+
+.fotografia1{
+    background-image: url(../image/img_grid_principal.jpg);
+    background-size: cover;
+    padding-top: 40%;
+}
+
+.text1{
+    margin-top: 50px;
+    color: white;
+}
+
+.textp{
+    color: white;
+}
+
+/*Fotografia2*/
+.fotografia2{
+    background-image: url(../image/img_grid_secundario.jpg);
+    background-size: cover;
+    padding-top: 30%;
+    margin-bottom: 20px;
+    margin-left: 17px;
+}
+
+.fotografia3{
+    background-image: url(../image/img_grid_secundario.jpg);
+    background-size: cover;
+    padding-top: 34%;
+    margin-left: 17px;
+}
+
+.text2 h3{
+    color: white;
+}
